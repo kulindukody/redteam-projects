@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696326717 source:/home/kuli/Documents/projects/100-redteam-projects/TCP-Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<arpa/inet.h>
+	<ifaddrs.h>
+	<netinet/in.h>
+
